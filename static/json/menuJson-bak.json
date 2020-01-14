@@ -1,0 +1,360 @@
+{
+  "menuList":[
+    {
+      "mainMenu": {
+        "name": "baseinfoMenu",
+        "title": "基础信息",
+        "subMenu": [
+          {
+            "title": "角色管理",
+            "url": "/basicInfo/role"
+          },
+          {
+            "title": "学年学期",
+            "url": "/basicInfo/term"
+          },
+          {
+            "title": "专业班级",
+            "url": "/basicInfo/major"
+          },
+          {
+            "title": "教室管理",
+            "url": "/basicInfo/floor"
+          },
+          {
+            "title": "教工管理",
+            "url": "/basicInfo/teacherManages"
+          },
+          {
+            "title": "学生管理",
+            "url": "/formTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "noticeMenu",
+        "title": "通知公告",
+        "subMenu": [
+          {
+            "title": "校园新闻",
+            "url": "/formTest"
+          },
+          {
+            "title": "校园公告",
+            "url": "/listTest"
+          },
+          {
+            "title": "校园通知",
+            "url": "/formTest"
+          },
+          {
+            "title": "咨询管理",
+            "url": "/formTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "studentAndTeacherMenu",
+        "title": "师生查询",
+        "subMenu": [
+          {
+            "title": "教师查询",
+            "url": "/formTest"
+          },
+          {
+            "title": "学生查询",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "jiaowuMenu",
+        "title": "教务管理",
+        "subMenu": [
+          {
+            "title": "教程管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "任课安排",
+            "url": "/listTest"
+          },
+          {
+            "title": "教学排课",
+            "url": "/listTest"
+          },
+          {
+            "title": "查询课表",
+            "url": "/listTest"
+          },
+          {
+            "title": "我的课表",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "studentManageMenu",
+        "title": "学工管理",
+        "subMenu": [
+          {
+            "title": "宿舍管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "奖惩管理",
+            "url": "/listTest"
+          },
+          {
+            "title": "班级评比",
+            "url": "/listTest"
+          },
+          {
+            "title": "内务评比",
+            "url": "/listTest"
+          },
+          {
+            "title": "素质学分",
+            "url": "/listTest"
+          },
+          {
+            "title": "线上选寝",
+            "url": "/listTest"
+          },
+          {
+            "title": "请假审批",
+            "url": "/listTest"
+          },
+          {
+            "title": "请假查询",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "flowCenterMenu",
+        "title": "流程中心",
+        "subMenu": [
+          {
+            "title": "流程管理",
+            "url": "/formTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "dormManageMenu",
+        "title": "归寝管理",
+        "subMenu": [
+          {
+            "title": "归寝查询",
+            "url": "/formTest"
+          },
+          {
+            "title": "归寝统计",
+            "url": "/listTest"
+          },
+          {
+            "title": "归寝分析",
+            "url": "/listTest"
+          },
+          {
+            "title": "归寝设置",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "ketangkaoqingMenu",
+        "title": "课堂考勤",
+        "subMenu": [
+          {
+            "title": "实时数据",
+            "url": "/formTest"
+          },
+          {
+            "title": "考勤查询",
+            "url": "/listTest"
+          },
+          {
+            "title": "考勤分析",
+            "url": "/listTest"
+          },
+          {
+            "title": "学生统计",
+            "url": "/listTest"
+          },
+          {
+            "title": "教师统计",
+            "url": "/listTest"
+          },
+          {
+            "title": "考勤设置",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "xingzhengkaoqinMenu",
+        "title": "行政考勤",
+        "subMenu": [
+          {
+            "title": "行政靠考情查询",
+            "url": "/formTest"
+          },
+          {
+            "title": "行政考勤设置",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "oneCardMenu",
+        "title": "一卡通",
+        "subMenu": [
+          {
+            "title": "商家管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "交易明细",
+            "url": "/listTest"
+          },
+          {
+            "title": "学生一卡通",
+            "url": "/listTest"
+          },
+          {
+            "title": "教师一卡通",
+            "url": "/listTest"
+          },
+          {
+            "title": "一卡通结算",
+            "url": "/listTest"
+          },
+          {
+            "title": "校园首款",
+            "url": "/listTest"
+          },
+          {
+            "title": "收款管理",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "aiDeviceManageMenu",
+        "title": "AI设备管理",
+        "subMenu": [
+          {
+            "title": "AI终端机管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "AI摄像机管理",
+            "url": "/listTest"
+          },
+          {
+            "title": "AI一体机管理",
+            "url": "/listTest"
+          },
+          {
+            "title": "设备位置管理",
+            "url": "/listTest"
+          },
+          {
+            "title": "设备管理配置",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "aiAuthMenu",
+        "title": "AI授权中心",
+        "subMenu": [
+          {
+            "title": "学生授权管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "人脸识别记录",
+            "url": "/listTest"
+          },
+          {
+            "title": "陌生人识别记录",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "bigDataMenu",
+        "title": "学工大数据",
+        "subMenu": [
+          {
+            "title": "学生分析",
+            "url": "/formTest"
+          },
+          {
+            "title": "考勤态势",
+            "url": "/listTest"
+          },
+          {
+            "title": "考勤画像",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "showDataMenu",
+        "title": "数据可视化",
+        "subMenu": [
+          {
+            "title": "大屏管理",
+            "url": "/formTest"
+          },
+          {
+            "title": "我的大屏",
+            "url": "/listTest"
+          }
+        ]
+      }
+    },
+    {
+      "mainMenu": {
+        "name": "logCenterMenu",
+        "title": "系统运维中心",
+        "subMenu": [
+          {
+            "title": "操作日志",
+            "url": "/formTest"
+          }
+        ]
+      }
+    }
+  ]
+}

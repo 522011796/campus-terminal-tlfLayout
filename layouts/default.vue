@@ -123,6 +123,7 @@
         }
       },
       getMenu(event){
+        let _self = this;
         this.$axios.get('/json/menuJson.json').then((res)=>{
           let menuList = res.data.menuList;
           for (let i = 0; i < menuList.length; i++){
@@ -130,12 +131,13 @@
               this.menuList = menuList[i].itemList;
             }
           }
+          _self.$router.push(this.menuList[0].list[0].item.url);
         });
       }
     },
     watch: {
       '$route': function (to, from) {//监听路由变化,为了浏览器点击后退和前进也能切换菜单选中
-
+        this.layoutContent =  "lr";
       },
       '$store.state.setDefaultRightOverflowy': function () {
 

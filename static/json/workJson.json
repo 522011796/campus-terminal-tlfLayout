@@ -8,31 +8,37 @@
           {
             "title": "角色管理",
             "icon": "fa fa-users fa-2x",
+            "color": "#5cadff",
             "url": "/basicInfo/role"
           },
           {
             "title": "学年学期",
             "icon": "fa fa-calendar-o fa-2x",
+            "color": "#5cadff",
             "url": "/basicInfo/term"
           },
           {
             "title": "专业班级",
             "icon": "fa fa-home fa-2x",
+            "color": "#5cadff",
             "url": "/basicInfo/major"
           },
           {
             "title": "教室管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-location-arrow fa-2x",
+            "color": "#5cadff",
             "url": "/basicInfo/floor"
           },
           {
             "title": "教工管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-user fa-2x",
+            "color": "#5cadff",
             "url": "/basicInfo/teacherManages"
           },
           {
             "title": "学生管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-graduation-cap fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           }
         ]
@@ -45,22 +51,26 @@
         "subMenu": [
           {
             "title": "校园新闻",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-newspaper-o fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           },
           {
             "title": "校园公告",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-volume-up fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "校园通知",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-commenting-o fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           },
           {
             "title": "咨询管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-envelope-o fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           }
         ]
@@ -73,12 +83,14 @@
         "subMenu": [
           {
             "title": "教师查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-vcard-o fa-2x",
+            "color": "#19be6b",
             "url": "/formTest"
           },
           {
             "title": "学生查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-graduation-cap fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           }
         ]
@@ -91,27 +103,32 @@
         "subMenu": [
           {
             "title": "教程管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-hand-paper-o fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           },
           {
             "title": "任课安排",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-language fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "教学排课",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-paper-plane fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "查询课表",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-list fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "我的课表",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-map-signs fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           }
         ]
@@ -124,42 +141,50 @@
         "subMenu": [
           {
             "title": "宿舍管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-building fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           },
           {
             "title": "奖惩管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-star fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "班级评比",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-bookmark fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "内务评比",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-flag fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "素质学分",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-tags fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "线上选寝",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-bed fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "请假审批",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-calendar fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           },
           {
             "title": "请假查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-window-restore fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           }
         ]
@@ -172,7 +197,8 @@
         "subMenu": [
           {
             "title": "流程管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-dashboard fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           }
         ]
@@ -185,22 +211,26 @@
         "subMenu": [
           {
             "title": "归寝查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-search fa-2x",
+            "color": "#19be6b",
             "url": "/formTest"
           },
           {
             "title": "归寝统计",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-pie-chart fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "归寝分析",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-area-chart fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "归寝设置",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cog fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           }
         ]
@@ -213,32 +243,38 @@
         "subMenu": [
           {
             "title": "实时数据",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-bar-chart-o  fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           },
           {
             "title": "考勤查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-search fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "考勤分析",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-line-chart fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "学生统计",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-area-chart fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "教师统计",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-pie-chart fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "考勤设置",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cog fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           }
         ]
@@ -251,12 +287,14 @@
         "subMenu": [
           {
             "title": "行政靠考情查询",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-tag fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           },
           {
             "title": "行政考勤设置",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cog fa-2x",
+            "color": "#ff9900",
             "url": "/listTest"
           }
         ]
@@ -270,36 +308,43 @@
           {
             "title": "商家管理",
             "icon": "fa fa-home fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           },
           {
             "title": "交易明细",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-list fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "学生一卡通",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-vcard-o fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "教师一卡通",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-vcard fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "一卡通结算",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-shopping-cart fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
-            "title": "校园首款",
-            "icon": "fa fa-home fa-2x",
+            "title": "校园收款",
+            "icon": "fa fa-money fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "收款管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cog fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           }
         ]
@@ -312,27 +357,32 @@
         "subMenu": [
           {
             "title": "AI终端机管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cube fa-2x",
+            "color": "#19be6b",
             "url": "/formTest"
           },
           {
             "title": "AI摄像机管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-video-camera fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "AI一体机管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-mobile-phone fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "设备位置管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-map-marker fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "设备管理配置",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cog fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           }
         ]
@@ -345,17 +395,20 @@
         "subMenu": [
           {
             "title": "学生授权管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-check-circle fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           },
           {
             "title": "人脸识别记录",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-file-text-o fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           },
           {
             "title": "陌生人识别记录",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-user-o fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           }
         ]
@@ -368,17 +421,20 @@
         "subMenu": [
           {
             "title": "学生分析",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-graduation-cap fa-2x",
+            "color": "#19be6b",
             "url": "/formTest"
           },
           {
             "title": "考勤态势",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-line-chart fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           },
           {
             "title": "考勤画像",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-cubes fa-2x",
+            "color": "#19be6b",
             "url": "/listTest"
           }
         ]
@@ -391,12 +447,14 @@
         "subMenu": [
           {
             "title": "大屏管理",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-film fa-2x",
+            "color": "#5cadff",
             "url": "/formTest"
           },
           {
             "title": "我的大屏",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-desktop fa-2x",
+            "color": "#5cadff",
             "url": "/listTest"
           }
         ]
@@ -409,7 +467,8 @@
         "subMenu": [
           {
             "title": "操作日志",
-            "icon": "fa fa-home fa-2x",
+            "icon": "fa fa-file-code-o fa-2x",
+            "color": "#ff9900",
             "url": "/formTest"
           }
         ]

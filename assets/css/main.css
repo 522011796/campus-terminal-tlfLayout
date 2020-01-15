@@ -26,6 +26,9 @@ table th a{
 .color-muted{
   color: #808695;
 }
+.color-info{
+  color: #2db7f5;
+}
 .margin-left-5{
   margin-left: 5px;
 }

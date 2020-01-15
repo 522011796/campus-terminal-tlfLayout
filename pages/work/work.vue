@@ -15,7 +15,7 @@
           <Row :gutter="20">
             <Col span="6" v-for="(item,index) in item.mainMenu.subMenu" :key="index" class="margin-bottom-20">
               <span class="item-list">
-                <label><i :class="item.icon"></i></label>
+                <label><i :class="item.icon" :style="{color: item.color}"></i></label>
                 {{item.title}}
               </span>
             </Col>

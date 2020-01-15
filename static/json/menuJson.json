@@ -10,49 +10,49 @@
               "title": "组织机构",
               "icon": "md-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "角色管理",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "学年学期",
               "icon": "ios-clock",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "专业班级",
               "icon": "md-home",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "教室管理",
               "icon": "ios-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "教工管理",
               "icon": "ios-ribbon",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "学生管理",
               "icon": "ios-school",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -69,56 +69,56 @@
               "title": "宿舍管理",
               "icon": "ios-home",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "奖惩管理",
               "icon": "md-medal",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "班级评比",
               "icon": "ios-medal",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "内务评比",
               "icon": "md-star",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "素质学分",
               "icon": "ios-ribbon",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "线上选寝",
               "icon": "ios-cloud",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "请假审批",
               "icon": "ios-checkbox",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "请假查询",
               "icon": "ios-search",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -135,35 +135,35 @@
               "title": "终端机",
               "icon": "ios-buffer",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "摄像机",
               "icon": "ios-videocam",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "一体机",
               "icon": "ios-tablet-portrait",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "设备位置",
               "icon": "md-star",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "配置管理",
               "icon": "ios-cog",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -175,21 +175,21 @@
               "title": "学生授权",
               "icon": "ios-school",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "人脸识别记录",
               "icon": "md-qr-scanner",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "陌生人识别记录",
               "icon": "ios-contact",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -206,28 +206,28 @@
               "title": "考勤查询",
               "icon": "ios-clock",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "学生统计",
               "icon": "md-school",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "教师统计",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤设置",
               "icon": "ios-cog",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -239,28 +239,28 @@
               "title": "归寝查询",
               "icon": "ios-clock",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "归寝统计",
               "icon": "md-stats",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "学生统计",
               "icon": "md-school",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤设置",
               "icon": "ios-cog",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -272,14 +272,14 @@
               "title": "考勤查询",
               "icon": "ios-clock",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤设置",
               "icon": "md-cog",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -296,14 +296,14 @@
               "title": "实时数据",
               "icon": "md-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤分析",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -315,14 +315,14 @@
               "title": "归寝统计",
               "icon": "md-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "归寝分析",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -334,28 +334,28 @@
               "title": "学生分析",
               "icon": "md-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤态势",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "考勤画像",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "量化统计",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
@@ -367,14 +367,14 @@
               "title": "大屏管理",
               "icon": "md-albums",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             },
             {
               "title": "我的大屏",
               "icon": "ios-people",
               "item": {
-                "url": "/index"
+                "url": "/"
               }
             }
           ]
